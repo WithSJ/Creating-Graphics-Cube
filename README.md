@@ -2,8 +2,6 @@
 
 This Program Written by Sandeep Jadam (Instagram @with.sj)
 
-This Program not Run on SoloLearn because SoloLearn not have grafics.h Header file.
-
 If you want to run this program in your IDE  you must have use BGI files .
 Search On Youtube How to use BGI Files in your IDE..
 
